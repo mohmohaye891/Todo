@@ -1,0 +1,68 @@
+
+.App {
+  text-align: center;
+}
+
+.to-do-list{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.container {
+  max-width: 500px;
+  font-size: 16px;
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 40%;
+  padding: 10px 20px;
+  background-color: rgba(234, 228, 228, 0.619);
+}
+
+/* .input-box {
+  padding: 10px;
+  border-radius: 5px;
+} */
+
+.list {
+  text-align: left;
+}
+
+.list ul {
+  padding-left: 0;
+}
+
+.list ul li{
+  background-color: #1c0ac0;
+  color: black;
+  padding: 10px;
+  margin-bottom: 20px;
+  position: rela;
+  border-radius: 5px;
+}
+
+.add-button {
+  margin-left: 20px;
+  margin-right: 0cap;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.update-button {
+  margin-left: 20px;
+  margin-right: 0cap;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.delete-button {
+  margin-left: 20px;
+  margin-right: 0cap;
+  float: right;
+}
+
+.edit-button {
+  margin-left: 20px;
+  margin-right: 0cap;
+  float: right;
+}
